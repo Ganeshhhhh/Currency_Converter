@@ -65,7 +65,8 @@ A **Currency Converter** application built using **Java** and **Swing**. This de
 ## Screenshots
 
 ### Currency Converter
-![Currency Converter Screenshot](https://github.com/Ganeshhhhh/currency_converter/blob/main/images/screenshot.png)
+![img01](https://github.com/user-attachments/assets/d409816a-c8da-4e5f-aae1-faa684bc4087)
+![image](https://github.com/user-attachments/assets/730a4123-98de-4808-b8c7-5e141e5d0cc9)
 
 ## Contributing
 
